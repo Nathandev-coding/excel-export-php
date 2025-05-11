@@ -6,6 +6,6 @@ Ce projet montre comment générer des fichiers `.xlsx` professionnels en PHP à
 ## 🔧 Installation
 
 ```bash
-git clone https://github.com/ton_nom/excel-export-php.git
+git clone https://github.com/Nathandev-coding/excel-export-php.git
 cd excel-export-php
 composer install
